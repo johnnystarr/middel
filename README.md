@@ -1,7 +1,7 @@
 # middel
 📜 Middle/Modern English Translator CLI - Written in Python
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/johnnystarr/middel/ci.yml?style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/johnnystarr/middel/ci.yaml?style=for-the-badge)
 ![PyPI](https://img.shields.io/pypi/v/middel?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/johnnystarr/middel?style=for-the-badge)
 
